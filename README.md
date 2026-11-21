@@ -424,19 +424,7 @@ The following screenshots show the execution and output of Python Practical 09.
 **Image Path:**
 `Screenshots\pratical-10(7).png`
 
-### Screenshot 8 – Practical Execution
 
-![Practical 09 Screenshot 8](Screenshots/pratical-10(8).png)
-
-**Image Path:**
-`Screenshots\pratical-10(8).png`
-
-### Screenshot 9 – Practical Execution
-
-![Practical 09 Screenshot 9](Screenshots/pratical-10(9).png)
-
-**Image Path:**
-`Screenshots\pratical-10(9).png`
 
 
 
