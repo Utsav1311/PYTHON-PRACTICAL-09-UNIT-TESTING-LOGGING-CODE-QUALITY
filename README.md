@@ -480,7 +480,7 @@ git branch -M main
 Connect GitHub repository:
 
 ```powershell
-git remote add origin https://github.com/sandeshpate31/PYTHON-PRACTICAL-09-UNIT-TESTING-LOGGING-CODE-QUALITY.git
+git remote add origin https://github.com/Utsav1311/PYTHON-PRACTICAL-09-UNIT-TESTING-LOGGING-CODE-QUALITY.git
 ```
 
 Push project to GitHub:
